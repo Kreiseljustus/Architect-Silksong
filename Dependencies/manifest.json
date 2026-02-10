@@ -1,0 +1,11 @@
+{
+  "namespace": "hk_speedrunning",
+  "name": "QuickWarp",
+  "description": "A basic mod to warp to any scene in the game.",
+  "version_number": "1.1.1",
+  "dependencies": [
+    "BepInEx-BepInExPack_Silksong-5.4.2304"
+  ],
+  "website_url": "https://github.com/hk-speedrunning/QuickWarp",
+  "FullName": "hk_speedrunning-QuickWarp"
+}
